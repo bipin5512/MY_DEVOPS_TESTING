@@ -1,5 +1,7 @@
 # MY_DEVOPS_TESTING
 
-This is my first git hub project, Updated from IDE
+=============================================
+This is my first git hub project.
+=============================================
 
--- logged in now, try commit again.
+In this project plan is to enable devops pipleline and test it for learing point of view.
